@@ -63,7 +63,7 @@
 
 <br/>
 
-1. [website]: https://dev-atharva.netlify.app/
-2. [leetcode]: https://leetcode.com/u/AtharvaSable/
-3. [instagram]: https://instagram.com/atharva.021/
-4. [linkedin]: https://www.linkedin.com/in/atharva-sable-2ba525250/
+[website]: https://dev-atharva.netlify.app/
+[leetcode]: https://leetcode.com/u/AtharvaSable/
+[instagram]: https://instagram.com/atharva.021/
+[linkedin]: https://www.linkedin.com/in/atharva-sable-2ba525250/
