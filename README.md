@@ -8,7 +8,6 @@
 ### I'm a CS grad.
 
 - 🔭 I’m currently exploring the realms of `Computer Science`
-- 🌱 I’m currently learning about `ML`
 - 👯 Open to collaborate.
 - 💼 Open to SDE/SWE roles.
 - ⚡ Hobbies: I like playing Cricket.
